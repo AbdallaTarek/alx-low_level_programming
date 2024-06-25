@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Description: 'print _putchar'
+ * Description: This function prints the alphabet, in lowercase
  *
- * Return: Always 0 (Success)
+ * Return: void
  */
 void print_alphabet(void)
 {
