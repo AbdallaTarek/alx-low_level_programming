@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _islower - check if the char lower or greater than c in lowercase.
+ * _isalpha - check if the char lower or greater than c in lowercase.
  * @c: The chat to be checked
- * Return: return 0 if lower return 1 if greater .
+ * Return: return 0 if the char is out of range return 1 if the char is in range .
  */
 int _isalpha(int c)
 {
