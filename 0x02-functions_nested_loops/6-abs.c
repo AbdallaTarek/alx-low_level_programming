@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _abs - func to return abs of numbers
+ * _abs - func to return abs of numbers
  * @c: is the input to check
  *
  * Description: func to return abs of numbers
