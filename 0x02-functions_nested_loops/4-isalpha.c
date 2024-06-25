@@ -3,7 +3,7 @@
 /**
  * _isalpha - check if the char lower or greater than c in lowercase.
  * @c: The chat to be checked
- * Return: return 0 if the char is out of range return 1 if the char is in range .
+ * Return: 0 if check out-of-range, return 1 if check is in-range.
  */
 int _isalpha(int c)
 {
