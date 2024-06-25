@@ -4,6 +4,7 @@
  * int _abs - func to return abs of numbers
  * @c: is the input to check
  *
+ * Description: func to return abs of numbers
  * Return: Absolute value of num or zero
  */
 int _abs(int c)
